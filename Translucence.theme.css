@@ -10,10 +10,10 @@
  * @invite jzJkA6Z
  */
 
-@import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
+@import url(https://github.com/bomfuce1211/Translucence/blTranslucence.theme.css);
 
 :root {
-	--app-bg: url(https://i.imgur.com/5TvjpTf.mp4);
+	--app-bg: url(https://i.imgur.com/EN4rSp1.png);
 	--app-blur: 6px;
 	--app-margin: 24px;
 	--app-radius: 8px; /*	-	*/
